@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "F32C392F-5BF0-4CF2-8F0F-09746EB8005D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 25,
+    "x": 0,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C8433E2D-B9BE-4CA7-92E8-B3AF0D8E9AF4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "06B25269-FADC-41B7-8CDD-4484A5FCDB9F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C960E4BB-A5B8-4CD7-8E8B-F97F187C7E32"
+    }
+  ],
+  "name": "ab-logoswithdesign-freelogo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

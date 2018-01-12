@@ -1,0 +1,155 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "8CC24872-1FB8-4A81-BB24-00D522F2C113",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 291,
+    "y": -3
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B03F4ED7-506F-47BE-9F9E-510228440640"
+    },
+    {
+      "class": "bitmap",
+      "id": "EB52B65D-4823-4E19-AB5E-EF797BC3FA10"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62CDF5F0-F413-4743-8D8C-9346BA10BBDF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67D41185-746E-4ADF-83F3-D6AE262165AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "804689E7-A751-4D25-812D-A05B0513953B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "15B6B270-37C0-482C-9BF4-E339CEFB8278"
+    },
+    {
+      "class": "text",
+      "id": "CD3785FA-76CD-4DCB-A498-22370BEEB9A8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7792D6E3-F997-4B99-9388-C0C82592B5D9"
+    },
+    {
+      "class": "text",
+      "id": "BDC042A5-01F7-45A0-BC2F-7D2CD121417C"
+    },
+    {
+      "class": "text",
+      "id": "2D07F338-AB83-4117-B65D-B4CF821ED11E"
+    },
+    {
+      "class": "text",
+      "id": "0D4F4B5D-FDCA-470A-BF56-A38072CD73C4"
+    },
+    {
+      "class": "text",
+      "id": "55A4914C-4771-4293-82DB-AF52CB09DE2A"
+    },
+    {
+      "class": "group",
+      "id": "2EE437FB-81D7-4793-8473-3D9E48869D61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB01E4FD-BDD5-4507-B450-388CCAC54FD7"
+    },
+    {
+      "class": "group",
+      "id": "DE0DD754-25AE-4A81-84FA-2CC3F333036D"
+    },
+    {
+      "class": "text",
+      "id": "D1D76ACC-E9FA-4048-8B1D-7924E0206419"
+    },
+    {
+      "class": "text",
+      "id": "07C1B4F6-44E2-4013-AE93-742D9CF188EB"
+    },
+    {
+      "class": "text",
+      "id": "8E2EA1F4-8ABA-4F55-B225-434388DC6DBC"
+    },
+    {
+      "class": "text",
+      "id": "11B83E77-F026-49A7-85E1-226163C89A3B"
+    }
+  ],
+  "name": "lexton-home",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

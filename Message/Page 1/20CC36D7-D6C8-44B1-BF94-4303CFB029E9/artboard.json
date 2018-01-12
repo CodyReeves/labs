@@ -1,0 +1,123 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "20CC36D7-D6C8-44B1-BF94-4303CFB029E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 1689,
+    "y": -3
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "065DB03E-426B-4AC7-94D7-CB46B36B0952"
+    },
+    {
+      "class": "group",
+      "id": "8C5B6F19-8898-4142-A066-B8E2E8CDFBCC"
+    },
+    {
+      "class": "group",
+      "id": "02E1EF1F-3876-4850-8AD0-2E1B3685566D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9FFDD19A-7325-4C6D-8587-412711FDF0FD"
+    },
+    {
+      "class": "group",
+      "id": "01E98E87-9B32-4C4D-9947-63E15AD3D2AC"
+    },
+    {
+      "class": "group",
+      "id": "7B272CF7-C6C6-4D9E-85EC-DC4C99D29793"
+    },
+    {
+      "class": "text",
+      "id": "042B9AA7-78A4-4904-8E75-493D2799A412"
+    },
+    {
+      "class": "group",
+      "id": "6EE483C2-4904-45C8-BA86-7928DB6F124D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "173D2718-3BA0-4CB8-8590-6F697B8EBA2A"
+    },
+    {
+      "class": "text",
+      "id": "BE9C02FD-FF79-4652-AE43-F67B3CBB64F3"
+    },
+    {
+      "class": "text",
+      "id": "F4105C53-D138-45D1-8998-8E658D129B26"
+    }
+  ],
+  "name": "iPhone 7 v6 - Conversation",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

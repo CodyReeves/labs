@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "do_objectID": "8DCD2737-DAEC-42E6-98CF-52C895906715",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 208,
+    "width": 208,
+    "x": 78,
+    "y": 39
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D28CBAD7-CEE6-4411-B725-EF100A9A506A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8C0F5924-B2F7-4480-845D-B6B2E613400A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FE0F36C1-D875-4B2E-A633-57276B7A620C"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 62,
+        "color": {
+          "_class": "color",
+          "alpha": 0.4008435235507246,
+          "blue": 0.6862745098039216,
+          "green": 0.1450980392156863,
+          "red": 0.2039215686274511
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

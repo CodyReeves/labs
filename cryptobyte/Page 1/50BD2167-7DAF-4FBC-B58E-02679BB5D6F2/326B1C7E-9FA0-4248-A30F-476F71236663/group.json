@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "326B1C7E-9FA0-4248-A30F-476F71236663",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 200,
+    "width": 150,
+    "x": 18,
+    "y": 101
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "955CB03B-245D-480F-ADDD-F50CF07B8260"
+    },
+    {
+      "class": "group",
+      "id": "FAC837BE-CBFA-4062-BA95-241CE04A3291"
+    },
+    {
+      "class": "group",
+      "id": "DFC2088C-958B-4E96-9DD2-6931DA358E95"
+    },
+    {
+      "class": "text",
+      "id": "6B3B9692-5360-4A03-84B1-82F75D1144B6"
+    },
+    {
+      "class": "text",
+      "id": "13285119-6D60-4F8A-95FD-201127255B69"
+    },
+    {
+      "class": "text",
+      "id": "44E9B78E-CF89-4472-A248-619F40E79C53"
+    }
+  ],
+  "name": "Card Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

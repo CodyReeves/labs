@@ -1,0 +1,99 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4274509803921568,
+        "green": 0.4823529411764705,
+        "red": 0.8901960784313725
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6078431372549019,
+        "green": 0.8588235294117647,
+        "red": 0.6784313725490196
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2164709767074443,
+        "green": 0.3126062925170068,
+        "red": 0.2435090342788838
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9037589798807188,
+        "green": 0.9130303872314326,
+        "red": 0.9819036989795918
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1411764705882353,
+        "green": 0.1647058823529412,
+        "red": 0.2117647058823529
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8901960784313725,
+        "green": 0.8431372549019607,
+        "red": 0.6705882352941176
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2656962228855103,
+        "green": 0.2821389643499774,
+        "red": 0.3150244472789115
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4441167091836735,
+        "green": 0.4200431142281766,
+        "red": 0.3317732660580212
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "A8389F41-5850-4855-9638-51B605DC0135",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "48.2",
+    "build": 47327,
+    "commit": "b8111e3393c4ca1f2399ecfdfc1e9488029ebe7b",
+    "version": 97
+  },
+  "pages": [
+    "Page 1",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

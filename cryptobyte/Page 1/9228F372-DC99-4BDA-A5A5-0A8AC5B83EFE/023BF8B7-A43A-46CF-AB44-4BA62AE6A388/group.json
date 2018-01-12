@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "023BF8B7-A43A-46CF-AB44-4BA62AE6A388",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 342,
+    "x": 17,
+    "y": 511
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "47011088-BB5E-417E-BD97-08A3C6A10CD7"
+    },
+    {
+      "class": "text",
+      "id": "5ACC0E6C-A7A7-4D77-9B66-D1BD5790E691"
+    },
+    {
+      "class": "text",
+      "id": "A9C223C4-9FC2-41FB-A757-6302574E9EF1"
+    },
+    {
+      "class": "text",
+      "id": "1A4A1712-4CED-46E5-9242-FA39D2425491"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B986CA08-3458-4F9A-9B69-8729AAE52CFA"
+    },
+    {
+      "class": "group",
+      "id": "1395A9A2-ED0E-488C-A34D-C516A85C118F"
+    }
+  ],
+  "name": "Bitcoin-Account Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "50BD2167-7DAF-4FBC-B58E-02679BB5D6F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 2102,
+    "y": 87
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A4EB7D6E-D2CA-4685-88BF-BE499A172C60"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2910E9E-9EEB-4A0A-84A8-6F1EE112B454"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "90476F75-D649-40A2-9D73-8587F780CA00"
+    },
+    {
+      "class": "group",
+      "id": "639FE13E-2438-440E-AAB4-3C07DFBF0EF2"
+    },
+    {
+      "class": "group",
+      "id": "AFB2A4C1-57CD-4616-89B5-467E6A9B206E"
+    },
+    {
+      "class": "group",
+      "id": "A77E1A34-C665-41D5-9B33-54E6E9A40E82"
+    },
+    {
+      "class": "group",
+      "id": "9EE21546-E461-4E54-BB8D-90AC5F804E19"
+    },
+    {
+      "class": "group",
+      "id": "933ED998-B14A-489A-8C9E-D3C385953E36"
+    },
+    {
+      "class": "group",
+      "id": "326B1C7E-9FA0-4248-A30F-476F71236663"
+    },
+    {
+      "class": "group",
+      "id": "71F2D469-156B-4E83-8B64-0B8038FDC803"
+    },
+    {
+      "class": "group",
+      "id": "88396EA6-CA11-4755-84F5-54595CF2FDC1"
+    },
+    {
+      "class": "group",
+      "id": "789DE98D-F381-4011-9C16-29BDC2347AC1"
+    },
+    {
+      "class": "group",
+      "id": "87159971-BA34-483C-9B33-35F5A4625045"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "449AC4D0-4F76-4B21-AFF8-2BEAB1189078"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "734F6C19-4FDF-4258-B46C-390613CCCAD6"
+    }
+  ],
+  "name": "cryptobyte-market",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      78
+    ]
+  }
+}

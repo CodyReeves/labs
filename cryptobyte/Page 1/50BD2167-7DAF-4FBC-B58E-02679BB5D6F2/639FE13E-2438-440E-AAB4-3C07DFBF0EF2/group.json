@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "639FE13E-2438-440E-AAB4-3C07DFBF0EF2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 307,
+    "width": 342,
+    "x": 17,
+    "y": 71
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CE0EB78C-B2A5-432B-A9D6-E3F24C8751F7"
+    },
+    {
+      "class": "text",
+      "id": "DC5FFDA5-6A80-4E3C-8A68-405347C32506"
+    },
+    {
+      "class": "text",
+      "id": "A8843F3F-7FEE-4C17-9CE9-F6C00594E913"
+    },
+    {
+      "class": "text",
+      "id": "E6BDCAA1-AA41-4632-AC6D-4ACEDF3CA15F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "31214E82-6418-48A7-ACAC-963FE2125A6E"
+    },
+    {
+      "class": "text",
+      "id": "EE92FEC5-14E1-415A-93CC-3B95A9D25428"
+    },
+    {
+      "class": "text",
+      "id": "CE980FC6-2EA5-495C-9AAC-33AE856FAF98"
+    },
+    {
+      "class": "text",
+      "id": "16635980-29C6-46DD-8133-D7C25D7AE28F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "000EB10F-4A80-4B3B-B267-A92C2C2B2CD6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3ACEEC21-CBA9-476E-A34C-A4034588B2A8"
+    }
+  ],
+  "name": "Bitcoin-Account",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
